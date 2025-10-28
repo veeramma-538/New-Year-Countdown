@@ -43,12 +43,18 @@ It’s built with **HTML, CSS, and JavaScript**, featuring a smooth **loading an
 ## 🗂️ Folder Structure  
 
 New-Year-Countdown/
+
 │
 ├── index.html # Main HTML file
+
 ├── style.css # Styles for the countdown
+
 ├── script.js # JavaScript logic
+
 └── img/
+
 ├── spinner.gif # Loading animation
+
 └── preview.gif # Project preview image or GIF
 
 
