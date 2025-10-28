@@ -58,7 +58,7 @@ New-Year-Countdown/
 
 1. Clone this repository:  
    
-   git clone https://github.com/yourusername/New-Year-Countdown.git
+   git clone https://github.com/veeramma-538/New-Year-Countdown.git
 2. Open the folder and double-click index.html to view it in your browser.
 
 3. Enjoy watching the countdown to the New Year! 🎇
